@@ -1,6 +1,6 @@
 # debugger_webhooks_to_sendgrid
 
-![screenshot][/ScreenShot-Redacted.png]
+![Screenshot](/ScreenShot-Redacted.png)
 
 ## Bootstrap with Blank Template
 
