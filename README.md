@@ -28,3 +28,5 @@ Setup .env with your SENDGRID_API_KEY, TO_EMAIL_ADDRESS, FROM_EMAIL_ADDRESS
 ## Deploy
 
 twilio serverless:deploy
+
+Update the [Debugger Webhook](https://www.twilio.com/console/debugger/alert-triggers) url in your Twilio Account
